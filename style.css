@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #f5f5f5;
+}
+h1{
+  color: #ff0000;
+}
+.seconddiv{
+  background-color: yellow;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  padding: 10px;
+}
+
